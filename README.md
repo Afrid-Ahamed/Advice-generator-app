@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-Mobile design
-
-![](./Finished%20designs/Mobile_design.png)
-
 Desktop design
 
-![](./Finished%20designs/Desktop_design.png)
+<!-- ![](./Finished%20designs/Desktop_design.png) -->
+
+Mobile design
+
+<!-- ![](./Finished%20designs/Mobile_design.png) -->
 
 ### Links
 
