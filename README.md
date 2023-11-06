@@ -52,5 +52,5 @@ Gained insights on how to use fetch API's in Javascript and the async-await conc
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Afrid-Ahamed)
-- Twitter - [@yourusername](https://twitter.com/Afrid04)
+- Frontend Mentor - [Afrid-Ahamed](https://www.frontendmentor.io/profile/Afrid-Ahamed)
+- Twitter - [Afrid04](https://twitter.com/Afrid04)
