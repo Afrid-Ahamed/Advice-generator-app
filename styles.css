@@ -88,7 +88,7 @@ img {
 }
 
 /* Mobile design */
-@media (max-width: 390px) {
+@media (max-width: 410px) {
   .container-advice {
     width: 250px;
   }
