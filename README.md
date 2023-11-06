@@ -35,8 +35,8 @@ Desktop design
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/advice-generator-app-YON9ksn9H2)
-- Live Site URL: [Add live site URL here](https://afrid-ahamed.github.io/Advice-generator-app/)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/advice-generator-app-YON9ksn9H2)
+- Live Site URL: [Click here](https://afrid-ahamed.github.io/Advice-generator-app/)
 
 ## My process
 
